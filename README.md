@@ -1,0 +1,1 @@
+This repository consists of a jupyter notebook and the associated data set. I have applied a logistic regression model to predict whether someone has heart disease or not. It was part of a guided project completed from the online Data Science course “Dataquest”. 
